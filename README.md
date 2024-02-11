@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **react, ruby on rails**
 
+- My portfolio <a href="https://troopl.com/rayanebitchi">https://troopl.com/rayanebitchi</a>
+
 - 📫 How to reach me **rayanebitchi@icloud.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/jo1v2475jk](https://flowcv.com/resume/jo1v2475jk)
